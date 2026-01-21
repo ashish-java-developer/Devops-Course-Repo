@@ -1,5 +1,5 @@
 def calculator():
-    print("Simple Calculator")
+    print("Let's start Simple Calculator")
     print("Operations: +  -  *  /")
 
     num1 = float(input("Enter first number: "))
@@ -21,3 +21,4 @@ def calculator():
         print("Invalid operation")
 
 calculator()
+
