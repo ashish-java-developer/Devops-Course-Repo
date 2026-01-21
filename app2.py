@@ -20,5 +20,8 @@ def calculator():
     else:
         print("Invalid operation")
 
+    print("Completed !")
+
 calculator()
+
 
